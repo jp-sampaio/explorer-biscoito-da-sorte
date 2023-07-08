@@ -4,7 +4,7 @@
 </p>
 
 ## 🖥️ Projeto
-Desafio do stage 5 da rocketseat, para fazer uma aplicação de um biscoito da sorte, você pode dar uma olhada que depois que está bastante divertido. Utilizei manipulação da DOM, array, eventos de click e keydown, function e callbacks, além de keyframes no css e outras propriedades muito legais de estilização.
+Desafio do stage 5 da rocketseat, para fazer uma aplicação de um biscoito da sorte, você pode dar uma olhada depois que está bastante divertido. Utilizei manipulação da DOM, array, eventos de click e keydown, function e callbacks, além de keyframes no css e outras propriedades muito legais de estilização.
 
 ## 🚀 Tecnologias
 Foi desenvolvido esse projeto com as seguintes tecnologias:
