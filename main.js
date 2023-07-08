@@ -1,0 +1,1 @@
+// quando clicar no biscoito aparecer um martelo batendo
