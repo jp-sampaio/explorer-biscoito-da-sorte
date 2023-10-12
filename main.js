@@ -17,7 +17,7 @@ const phrases = [
   "Você é do tamanho do seu sonho.",
   "Os defeitos são mais fortes quando o amor é fraco.",
 ];
-let numberRamdom = Math.round(Math.random() * 10);
+let numberRamdom = Math.round(Math.random() * phrases.length);
 
 document.addEventListener("keydown", handleEnter);
 cookie.addEventListener("click", handleClickCookie);
